@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alivesaga
-- 👀 I’m interested in travelling
-- 🌱 I’m currently learning Software Testing 
+- 👀 I’m interested in Travelling
+- 🌱 I’m currently learning Software Coding 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sagarransing4@gmail.com
 
